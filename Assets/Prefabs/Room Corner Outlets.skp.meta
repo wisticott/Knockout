@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: d7b69c0203de24bf895f185a6c2b635a
+timeCreated: 1473551886
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a2017213ef6649fb2624f50a13f36817
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 7.6865673, y: 3.1087859, z: -8.499057}
+      lookAt: {x: -7.0995054, y: -2.4180725, z: 10.289416}
+      up: {x: -0.13928631, y: 0.974307, z: 0.17698933}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door
+    100002: Door 1
+    100004: Plug Female
+    100006: Plug Female 1
+    100008: Plug Female 10
+    100010: Plug Female 11
+    100012: Plug Female 12
+    100014: Plug Female 13
+    100016: Plug Female 14
+    100018: Plug Female 15
+    100020: Plug Female 2
+    100022: Plug Female 3
+    100024: Plug Female 4
+    100026: Plug Female 5
+    100028: Plug Female 6
+    100030: Plug Female 7
+    100032: Plug Female 8
+    100034: Plug Female 9
+    100036: //RootNode
+    100038: Wall Plate Data
+    100040: Wall Plate Data 1
+    100042: Wall Plate Data 2
+    100044: Wall Plate Outlet
+    100046: Wall Plate Outlet 1
+    100048: Wall Plate Outlet 2
+    100050: Wall Plate Outlet 3
+    100052: Wall Plate Outlet 4
+    100054: Wall Plate Outlet 5
+    100056: Wall Plate Outlet 6
+    100058: Wall Plate Outlet 7
+    400000: Door
+    400002: Door 1
+    400004: Plug Female
+    400006: Plug Female 1
+    400008: Plug Female 10
+    400010: Plug Female 11
+    400012: Plug Female 12
+    400014: Plug Female 13
+    400016: Plug Female 14
+    400018: Plug Female 15
+    400020: Plug Female 2
+    400022: Plug Female 3
+    400024: Plug Female 4
+    400026: Plug Female 5
+    400028: Plug Female 6
+    400030: Plug Female 7
+    400032: Plug Female 8
+    400034: Plug Female 9
+    400036: //RootNode
+    400038: Wall Plate Data
+    400040: Wall Plate Data 1
+    400042: Wall Plate Data 2
+    400044: Wall Plate Outlet
+    400046: Wall Plate Outlet 1
+    400048: Wall Plate Outlet 2
+    400050: Wall Plate Outlet 3
+    400052: Wall Plate Outlet 4
+    400054: Wall Plate Outlet 5
+    400056: Wall Plate Outlet 6
+    400058: Wall Plate Outlet 7
+    2300000: Door
+    2300002: Door 1
+    2300004: Plug Female
+    2300006: Plug Female 1
+    2300008: Plug Female 10
+    2300010: Plug Female 11
+    2300012: Plug Female 12
+    2300014: Plug Female 13
+    2300016: Plug Female 14
+    2300018: Plug Female 15
+    2300020: Plug Female 2
+    2300022: Plug Female 3
+    2300024: Plug Female 4
+    2300026: Plug Female 5
+    2300028: Plug Female 6
+    2300030: Plug Female 7
+    2300032: Plug Female 8
+    2300034: Plug Female 9
+    2300036: //RootNode
+    2300038: Wall Plate Data
+    2300040: Wall Plate Data 1
+    2300042: Wall Plate Data 2
+    2300044: Wall Plate Outlet
+    2300046: Wall Plate Outlet 1
+    2300048: Wall Plate Outlet 2
+    2300050: Wall Plate Outlet 3
+    2300052: Wall Plate Outlet 4
+    2300054: Wall Plate Outlet 5
+    2300056: Wall Plate Outlet 6
+    2300058: Wall Plate Outlet 7
+    3300000: Door
+    3300002: Door 1
+    3300004: Plug Female
+    3300006: Plug Female 1
+    3300008: Plug Female 10
+    3300010: Plug Female 11
+    3300012: Plug Female 12
+    3300014: Plug Female 13
+    3300016: Plug Female 14
+    3300018: Plug Female 15
+    3300020: Plug Female 2
+    3300022: Plug Female 3
+    3300024: Plug Female 4
+    3300026: Plug Female 5
+    3300028: Plug Female 6
+    3300030: Plug Female 7
+    3300032: Plug Female 8
+    3300034: Plug Female 9
+    3300036: //RootNode
+    3300038: Wall Plate Data
+    3300040: Wall Plate Data 1
+    3300042: Wall Plate Data 2
+    3300044: Wall Plate Outlet
+    3300046: Wall Plate Outlet 1
+    3300048: Wall Plate Outlet 2
+    3300050: Wall Plate Outlet 3
+    3300052: Wall Plate Outlet 4
+    3300054: Wall Plate Outlet 5
+    3300056: Wall Plate Outlet 6
+    3300058: Wall Plate Outlet 7
+    4300000: Mesh Room Corner Outlets
+    4300002: Mesh Wall Plate Outlet
+    4300004: Mesh Plug Female
+    4300006: Mesh Wall Plate Data
+    4300008: Mesh Door
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
